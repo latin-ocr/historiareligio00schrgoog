@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiareligio00schrgoog_0018.png"; bbox 0 0 2370 4222; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 20 844 1168 1455">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 20 844 1168 1455">
+     <span class='ocr_line' id='line_1_1' title="bbox 234 844 1140 1079; baseline -0.002 -1.379"><span class='ocrx_word' id='word_1_1' title='bbox 234 904 827 1079; x_wconf 64' lang='lat' dir='ltr'>msmomA</span> <span class='ocrx_word' id='word_1_2' title='bbox 964 1002 968 1009; x_wconf 90' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1085 844 1140 919; x_wconf 71' lang='lat'><strong>⁵</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 20 1232 1168 1455; baseline 0.006 -79"><span class='ocrx_word' id='word_1_4' title='bbox 20 1232 440 1382; x_wconf 71' lang='lat' dir='ltr'>&#39;ussufflole</span> <span class='ocrx_word' id='word_1_5' title='bbox 508 1302 580 1380; x_wconf 71' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 641 1266 1009 1383; x_wconf 69' lang='lat' dir='ltr'><strong>Eccmsmss</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1053 1274 1082 1443; x_wconf 48' lang='lat' dir='ltr'><strong>j</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1128 1403 1168 1455; x_wconf 12' lang='grc' dir='ltr'><strong>ἃ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 67 1500 735 1697">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 67 1500 735 1697">
+     <span class='ocr_line' id='line_1_3' title="bbox 67 1500 735 1697; baseline -0.003 -31"><span class='ocrx_word' id='word_1_9' title='bbox 67 1500 71 1521; x_wconf 56' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 221 1586 231 1631; x_wconf 65' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 336 1570 735 1697; x_wconf 70' lang='lat' dir='ltr'><strong>cumsmNAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1190 4222">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1190 4222">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1190 4222; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1190 4222; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
